@@ -1,4 +1,90 @@
 timestamp,date,type,category,amount,description
-17:06:02,01/01/2024,Chi tiêu,Ăn uống,100000.0,Test 1
-17:06:03,02/01/2024,Thu nhập,Lương,1000000.0,Test 2
-17:06:04,01/01/2024,Chi tiêu,Ăn uống,300000.0,Test transaction
+09:00:00,01/01/2025,Thu nhập,Lương,15000000.0,Lương tháng 1
+12:30:00,02/01/2025,Chi tiêu,Ăn uống,150000.0,Ăn trưa quán cơm
+19:00:00,02/01/2025,Chi tiêu,Ăn uống,200000.0,Ăn tối gia đình
+08:00:00,03/01/2025,Chi tiêu,Đi lại,50000.0,Xe bus đi học
+14:00:00,03/01/2025,Chi tiêu,Học tập,500000.0,Mua sách giáo khoa
+10:00:00,04/01/2025,Chi tiêu,Ăn uống,80000.0,Cafe với bạn
+16:00:00,05/01/2025,Chi tiêu,Hóa đơn,800000.0,Tiền điện tháng 12
+12:00:00,06/01/2025,Chi tiêu,Ăn uống,120000.0,Ăn trưa
+20:00:00,07/01/2025,Chi tiêu,Giải trí,300000.0,Xem phim với bạn
+08:30:00,08/01/2025,Chi tiêu,Đi lại,100000.0,Taxi về nhà
+18:00:00,10/01/2025,Thu nhập,Làm thêm,2000000.0,Gia sư toán
+11:00:00,12/01/2025,Chi tiêu,Mua sắm,500000.0,Mua quần áo
+13:00:00,13/01/2025,Chi tiêu,Ăn uống,180000.0,Ăn buffet
+09:00:00,15/01/2025,Chi tiêu,Hóa đơn,350000.0,Tiền nước
+14:30:00,16/01/2025,Chi tiêu,Y tế,200000.0,Khám răng
+19:30:00,18/01/2025,Chi tiêu,Ăn uống,250000.0,Ăn tối nhà hàng
+10:00:00,20/01/2025,Chi tiêu,Học tập,300000.0,Khóa học online
+12:00:00,22/01/2025,Chi tiêu,Ăn uống,90000.0,Ăn phở
+15:00:00,23/01/2025,Chi tiêu,Mua sắm,400000.0,Mua giày
+08:00:00,25/01/2025,Chi tiêu,Đi lại,150000.0,Xe ôm về quê
+20:00:00,26/01/2025,Chi tiêu,Giải trí,200000.0,Karaoke
+11:00:00,28/01/2025,Chi tiêu,Khác,100000.0,Từ thiện
+16:00:00,30/01/2025,Chi tiêu,Hóa đơn,400000.0,Internet
+09:00:00,01/02/2025,Thu nhập,Lương,15000000.0,Lương tháng 2
+12:30:00,02/02/2025,Chi tiêu,Ăn uống,140000.0,Cơm trưa
+18:00:00,03/02/2025,Chi tiêu,Ăn uống,220000.0,Ăn tối
+08:30:00,04/02/2025,Chi tiêu,Đi lại,60000.0,Xe bus
+10:00:00,05/02/2025,Chi tiêu,Học tập,400000.0,In tài liệu
+14:00:00,06/02/2025,Chi tiêu,Mua sắm,600000.0,Mua đồ Tết
+19:00:00,08/02/2025,Chi tiêu,Giải trí,500000.0,Đi chơi Tết
+11:00:00,10/02/2025,Thu nhập,Thưởng,3000000.0,Thưởng Tết
+15:00:00,12/02/2025,Chi tiêu,Ăn uống,300000.0,Cơm Tết
+20:00:00,14/02/2025,Chi tiêu,Giải trí,400000.0,Valentine
+09:00:00,15/02/2025,Chi tiêu,Hóa đơn,850000.0,Tiền điện
+13:00:00,18/02/2025,Chi tiêu,Ăn uống,160000.0,Ăn bún bò
+16:00:00,20/02/2025,Chi tiêu,Y tế,150000.0,Mua thuốc cảm
+12:00:00,22/02/2025,Chi tiêu,Đi lại,80000.0,Grab
+17:00:00,24/02/2025,Chi tiêu,Học tập,250000.0,Đóng học phí
+19:00:00,26/02/2025,Chi tiêu,Ăn uống,190000.0,Pizza
+10:00:00,28/02/2025,Chi tiêu,Khác,80000.0,Quà sinh nhật
+09:00:00,01/03/2025,Thu nhập,Lương,15000000.0,Lương tháng 3
+12:00:00,03/03/2025,Chi tiêu,Ăn uống,130000.0,Cơm trưa
+18:30:00,04/03/2025,Chi tiêu,Ăn uống,210000.0,Ăn tối
+08:00:00,05/03/2025,Chi tiêu,Đi lại,70000.0,Xe bus
+14:00:00,07/03/2025,Chi tiêu,Mua sắm,800000.0,Mua laptop cũ
+20:00:00,08/03/2025,Chi tiêu,Giải trí,350000.0,Đi bar
+11:00:00,10/03/2025,Chi tiêu,Học tập,450000.0,Sách tham khảo
+15:00:00,12/03/2025,Thu nhập,Làm thêm,1800000.0,Làm freelance
+09:00:00,15/03/2025,Chi tiêu,Hóa đơn,370000.0,Tiền nước
+13:00:00,16/03/2025,Chi tiêu,Ăn uống,170000.0,Lẩu
+16:00:00,18/03/2025,Chi tiêu,Y tế,250000.0,Khám tổng quát
+12:00:00,20/03/2025,Chi tiêu,Ăn uống,100000.0,Bún riêu
+17:00:00,22/03/2025,Chi tiêu,Đi lại,120000.0,Taxi
+19:00:00,24/03/2025,Chi tiêu,Giải trí,280000.0,Bowling
+10:00:00,26/03/2025,Chi tiêu,Học tập,300000.0,Khoá học Excel
+14:00:00,28/03/2025,Chi tiêu,Mua sắm,450000.0,Mua túi xách
+18:00:00,30/03/2025,Chi tiêu,Hóa đơn,420000.0,Internet
+09:00:00,01/04/2025,Thu nhập,Lương,15000000.0,Lương tháng 4
+12:30:00,02/04/2025,Chi tiêu,Ăn uống,140000.0,Cơm trưa
+18:00:00,03/04/2025,Chi tiêu,Ăn uống,230000.0,Ăn tối
+08:30:00,05/04/2025,Chi tiêu,Đi lại,80000.0,Xe bus
+14:00:00,07/04/2025,Chi tiêu,Giải trí,450000.0,Du lịch gần
+16:00:00,10/04/2025,Thu nhập,Học bổng,5000000.0,Học bổng học kỳ
+11:00:00,12/04/2025,Chi tiêu,Học tập,600000.0,Mua máy tính bảng
+09:00:00,15/04/2025,Chi tiêu,Hóa đơn,900000.0,Tiền điện
+13:00:00,16/04/2025,Chi tiêu,Ăn uống,160000.0,Ăn sushi
+17:00:00,18/04/2025,Chi tiêu,Mua sắm,700000.0,Mua đồ thể thao
+12:00:00,20/04/2025,Chi tiêu,Ăn uống,110000.0,Bánh mì
+19:00:00,22/04/2025,Chi tiêu,Giải trí,320000.0,Concert
+10:00:00,24/04/2025,Chi tiêu,Y tế,180000.0,Mua vitamin
+15:00:00,26/04/2025,Chi tiêu,Đi lại,150000.0,Grab về nhà
+18:00:00,28/04/2025,Chi tiêu,Ăn uống,200000.0,Ăn buffet
+11:00:00,30/04/2025,Chi tiêu,Khác,120000.0,Mua hoa
+09:00:00,01/05/2025,Thu nhập,Lương,15000000.0,Lương tháng 5
+12:00:00,02/05/2025,Chi tiêu,Ăn uống,150000.0,Cơm trưa
+18:30:00,03/05/2025,Chi tiêu,Ăn uống,240000.0,Ăn tối
+08:00:00,05/05/2025,Chi tiêu,Đi lại,90000.0,Xe bus
+14:00:00,07/05/2025,Chi tiêu,Mua sắm,850000.0,Mua điện thoại
+19:00:00,10/05/2025,Chi tiêu,Giải trí,500000.0,Đi du lịch
+11:00:00,12/05/2025,Thu nhập,Làm thêm,2200000.0,Dự án freelance
+09:00:00,15/05/2025,Chi tiêu,Hóa đơn,380000.0,Tiền nước
+13:00:00,16/05/2025,Chi tiêu,Ăn uống,180000.0,Đồ ăn Hàn
+16:00:00,18/05/2025,Chi tiêu,Học tập,350000.0,Khóa học tiếng Anh
+12:00:00,20/05/2025,Chi tiêu,Ăn uống,120000.0,Bún chả
+17:00:00,22/05/2025,Chi tiêu,Y tế,300000.0,Khám mắt
+19:00:00,24/05/2025,Chi tiêu,Giải trí,400000.0,Massage thư giãn
+10:00:00,26/05/2025,Chi tiêu,Đi lại,160000.0,Taxi sân bay
+14:00:00,28/05/2025,Chi tiêu,Mua sắm,650000.0,Mua đồ mùa hè
+18:00:00,30/05/2025,Chi tiêu,Hóa đơn,450000.0,Internet
